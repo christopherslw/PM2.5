@@ -1,3 +1,3 @@
-Predicting Particulate Matter Concentrations for Different Regions in California During Wildfires
+# Predicting Particulate Matter Concentrations for Different Regions in California During Wildfires
 
 In this project, I aim to predict air quality using weather data from different locations in California in 2020. This project looks at particulate matter with a diameter of fewer than 2.5 microns (PM2.5) measured in micrograms per cubic meter of air $(\mu g/m^3)$ which is mainly caused by smoke from fires. 2020 was the worst year for wildfires in all of California's history, thus there is a large amount of data available. Many meteorological factors can lead to different degrees of air quality, for example wind speed and wind direction. With this intuition, I will use data from different regions during 2020 in order to predict the PM2.5 level at a given location.
